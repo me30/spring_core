@@ -1,4 +1,4 @@
-package com.commons;
+package com.commons.entity;
 
 
 public class Student {

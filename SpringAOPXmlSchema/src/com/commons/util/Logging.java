@@ -1,4 +1,4 @@
-package com.commons;
+package com.commons.util;
 
 public class Logging {
    /** 
